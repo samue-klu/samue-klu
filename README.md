@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samue-klu
+- 👋 Hi, I’m @samuel-klu
 - 👀 I’m interested in website development and app creation
 - 🌱 I’m currently learning ...html and css
 - 💞️ I’m looking to collaborate on website and app creation
